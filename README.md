@@ -4,5 +4,6 @@
 
 | Название проекта | Описание | Используемые библиотеки | Папка |
 | :-------------------- | :--------------------- |:--------------------------- |:---------------------------|
-| [Подготовка прототипа модели для металлообрабатывающего предприятия](https://github.com/aleksandrlashmanov/YP-train-projects/tree/main/YP-taxi-project) | Построение модели, предсказывающую коэффициент восстановления золота из золотосодержащей руды | pandas, numpy, seaborn, sklearn | YP-sprint9-project |
-| [Прогнозирование заказов такси](https://github.com/aleksandrlashmanov/YP-train-projects/tree/main/YP-gold_ore-project ) | Построение модели для прогнозирования количества заказов такси на следующий час | pandas, numpy, lightgbm, statsmodels, matplotlib, sklearn | YP-sprint12-project |
+| [Подготовка прототипа модели для металлообрабатывающего предприятия](https://github.com/aleksandrlashmanov/YP-train-projects/tree/main/YP-taxi-project) | Построение модели, предсказывающую коэффициент восстановления золота из золотосодержащей руды | pandas, numpy, seaborn, sklearn | YP-taxi-project |
+| [Прогнозирование заказов такси](https://github.com/aleksandrlashmanov/YP-train-projects/tree/main/YP-gold_ore-project ) | Построение модели для прогнозирования количества заказов такси на следующий час | pandas, numpy, lightgbm, statsmodels, matplotlib, sklearn | YP-gold_ore-project |
+| [Определение температуры стали](https://github.com/aleksandrlashmanov/YP-train-projects/tree/main/YP-steel-project ) | Построение модели, которая предскажет температуру стали после обработки исходного сырья | pandas, numpy, lightgbm, sklearn, matplotlib | YP-steel-project |
